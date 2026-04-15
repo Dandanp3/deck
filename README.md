@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🃏 Deck Portfolio
 
-## Getting Started
+Este é o meu portfólio em fase de construção. O projeto foi concebido sob a estética de **baralhos, cartas de tarô e elementos visuais do personagem Gambit (X-Men)**, servindo como um campo de batalha para refinar minhas habilidades em design de interface e animações complexas.
 
-First, run the development server:
+### 🎯 O Objetivo
+O foco principal não é apenas listar projetos, mas demonstrar domínio técnico em:
+* **React & Next.js:** Construção de uma arquitetura limpa e escalável.
+* **Framer Motion:** Criação de transições fluidas e interações que simulam o movimento de cartas (flips, stacks e hovers).
+* **UI/UX Design:** Explorar uma identidade visual forte e temática sem perder a usabilidade.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 🏗️ Stack Técnica
+* **Framework:** Next.js (App Router)
+* **Estilização:** Tailwind CSS v4
+* **Animações:** Framer Motion
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🃏 O Conceito
+A ideia é trazer uma temática de baralhos e highlights com a energia cinética do Gambit.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> ⚠️ **Nota:** Este projeto ainda está "embaralhando as cartas". Muitas seções estão em desenvolvimento e o design passa por iterações constantes para atingir o nível de polimento desejado.
